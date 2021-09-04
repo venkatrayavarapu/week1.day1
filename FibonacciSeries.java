@@ -8,7 +8,7 @@ package week1.day.assignements;
 public class FibonacciSeries {
 
 	public static void main(String[] args) {
-		int maxNumber = 8;
+		int maxNum = 8;
 		int preNum = 0;
 		int nxtNum = 1;
 		for (int i = 1; i <= maxNumber; i++) {
